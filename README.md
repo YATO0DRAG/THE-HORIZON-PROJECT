@@ -1,81 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Horizon Zero Dawn - Game Promotion</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background: white;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #2C3E50;
-        }
-        .logo {
-            text-align: center;
-            margin: 20px 0;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        .features, .description, .objectives, .contact {
-            margin: 20px 0;
-            padding: 15px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background: #e0e0e0;
-        }
-        @media print {
-            body {
-                -webkit-print-color-adjust: exact;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Horizon Zero Dawn</h1>
-        <div class="logo">
-            <img src="path/to/logo.jpg" alt="Horizon Zero Dawn Logo" />
-        </div>
-        <div class="description">
-            <h2>Game Description</h2>
-            <p><strong>Horizon Zero Dawn</strong> is an action RPG set in a lush, post-apocalyptic world where robotic creatures dominate the landscape. Play as Aloy, a hunter and archer, as you uncover the mystery of your past in a world filled with machines.</p>
-        </div>
-        <div class="features">
-            <h2>Gameplay Features</h2>
-            <ul>
-                <li>Explore a vast open world with stunning landscapes.</li>
-                <li>Engage in strategic combat with machine creatures.</li>
-                <li>Level up and customize your abilities.</li>
-                <li>Experience a rich narrative filled with captivating characters.</li>
-            </ul>
-        </div>
-        <div class="release-date">
-            <h2>Release Date</h2>
-            <p>November 2026</p>
-        </div>
-        <div class="objectives">
-            <h2>Objectives</h2>
-            <p>Survive against overwhelming odds, learn the secrets of ancient technology, and protect your tribe.</p>
-        </div>
-        <div class="contact">
-            <h2>Contact Us</h2>
-            <p>If you have any inquiries, please reach out to us at: <a href="mailto:info@horizonzerodawn.com">info@horizonzerodawn.com</a></p>
-        </div>
-    </div>
-</body>
-</html>
+# Horizon Zero Dawn Project
+
+## Project Overview
+Horizon Zero Dawn is an action role-playing game developed by Guerrilla Games. The game features an open world set in a post-apocalyptic environment overrun by robotic creatures. The player takes on the role of Aloy, a young hunter with a mysterious past, as she embarks on a quest to uncover her history and save her world.
+
+### Features
+- Engaging story-driven gameplay
+- Open-world exploration
+- Tactical combat against mechanical foes
+- Rich and detailed environments
+
+### Objectives
+- To recreate the game experience
+- To analyze and improve upon gameplay mechanics
+- To develop unique content inspired by the original
+
+### Technologies Used
+- Unreal Engine 4
+- C++ for game development
+- Various art and animation tools for asset creation
+
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/YATO0DRAG/THE-HORIZON-PROJECT.git
+   ```
+2. Follow the setup instructions in the repository's documentation to get started.
